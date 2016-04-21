@@ -264,7 +264,7 @@ function create_config( )
     "welcome",
     "wiki"
     },
-    sudo_users = {149921837, 136342805},--Sudo users
+    sudo_users = {120629055,106789762},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Cyber bot 2.3
@@ -274,8 +274,8 @@ function create_config( )
     ‼️ this bot is made by :Dr.Cyber
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @DrCyber1736
-   ߔࠀ   @redteam_01_25
+   ߔࠀ   
+   ߔࠀ   
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -426,8 +426,8 @@ function create_config( )
 ❗️Note that: از ! و / استفاده نکنید
 ●•••••••••••••••••••••••••●
 Developers: 
-@DrCyber1736
-@redteam_01_25
+
+
 ]],
   }
   serialize_to_file(config, './data/config.lua')
